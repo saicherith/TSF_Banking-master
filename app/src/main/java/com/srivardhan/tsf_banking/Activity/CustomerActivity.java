@@ -1,4 +1,4 @@
-package com.srivardhan.tsf_banking.Activity;
+package com.cherith.tsf_banking.Activity;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
