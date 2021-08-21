@@ -1,4 +1,4 @@
-package com.srivardhan.tsf_banking.Activity;
+package com.cherith.tsf_banking.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -9,8 +9,8 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.Button;
 
-import com.srivardhan.tsf_banking.Activity.ListActivity;
-import com.srivardhan.tsf_banking.R;
+import com.cherith.tsf_banking.Activity.ListActivity;
+import com.cherith.tsf_banking.R;
 
 public class MainActivity extends AppCompatActivity {
 
