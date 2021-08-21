@@ -4,7 +4,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.room.Room;
-import androidx.room.RoomDatabase;
 
 import android.content.Context;
 import android.content.Intent;
@@ -12,15 +11,13 @@ import android.os.AsyncTask;
 import android.os.Bundle;
 import android.widget.TextView;
 
-import com.srivardhan.tsf_banking.Adapter.MyAdapter;
-import com.srivardhan.tsf_banking.db.DbDatabase;
-import com.srivardhan.tsf_banking.db.DbEntity;
-import com.srivardhan.tsf_banking.util.Customer;
-import com.srivardhan.tsf_banking.R;
+import com.cherith.tsf_banking.Adapter.MyAdapter;
+import com.cherith.tsf_banking.db.DbDatabase;
+import com.cherith.tsf_banking.db.DbEntity;
+import com.cherith.tsf_banking.R;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.concurrent.ExecutionException;
 
 public class ListActivity extends AppCompatActivity {
 

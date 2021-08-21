@@ -1,6 +1,5 @@
 package com.cherith.tsf_banking.Activity;
 
-import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.room.Room;
 
@@ -11,14 +10,10 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import com.srivardhan.tsf_banking.R;
-import com.srivardhan.tsf_banking.db.DbDatabase;
-import com.srivardhan.tsf_banking.db.DbEntity;
-import com.srivardhan.tsf_banking.util.Customer;
-
-import java.util.Objects;
+import com.cherith.tsf_banking.R;
+import com.cherith.tsf_banking.db.DbDatabase;
+import com.cherith.tsf_banking.db.DbEntity;
 
 public class CustomerActivity extends AppCompatActivity {
 

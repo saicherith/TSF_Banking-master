@@ -1,4 +1,4 @@
-package com.srivardhan.tsf_banking.Adapter;
+package com.cherith.tsf_banking.Adapter;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -8,8 +8,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.srivardhan.tsf_banking.R;
-import com.srivardhan.tsf_banking.db.TransacEntity;
+import com.cherith.tsf_banking.R;
+import com.cherith.tsf_banking.db.TransacEntity;
 
 import java.util.Collections;
 import java.util.List;

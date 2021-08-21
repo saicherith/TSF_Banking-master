@@ -1,4 +1,4 @@
-package com.srivardhan.tsf_banking.Activity;
+package com.cherith.tsf_banking.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.room.Room;
@@ -15,11 +15,11 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.srivardhan.tsf_banking.R;
-import com.srivardhan.tsf_banking.db.DbDatabase;
-import com.srivardhan.tsf_banking.db.DbEntity;
-import com.srivardhan.tsf_banking.db.TransacDatabase;
-import com.srivardhan.tsf_banking.db.TransacEntity;
+import com.cherith.tsf_banking.R;
+import com.cherith.tsf_banking.db.DbDatabase;
+import com.cherith.tsf_banking.db.DbEntity;
+import com.cherith.tsf_banking.db.TransacDatabase;
+import com.cherith.tsf_banking.db.TransacEntity;
 
 public class PaymentActivity extends AppCompatActivity {
 

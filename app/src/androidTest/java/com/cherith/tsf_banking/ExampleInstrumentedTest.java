@@ -1,4 +1,4 @@
-package com.srivardhan.tsf_banking;
+package com.cherith.tsf_banking;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.srivardhan.tsf_banking", appContext.getPackageName());
+        assertEquals("com.cherith.tsf_banking", appContext.getPackageName());
     }
 }

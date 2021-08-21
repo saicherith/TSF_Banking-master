@@ -4,7 +4,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.room.Room;
 
 import android.content.Context;
-import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.view.View;
@@ -12,11 +11,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.srivardhan.tsf_banking.R;
-import com.srivardhan.tsf_banking.db.DbDatabase;
-import com.srivardhan.tsf_banking.db.DbEntity;
-
-import java.util.concurrent.ExecutionException;
+import com.cherith.tsf_banking.R;
+import com.cherith.tsf_banking.db.DbDatabase;
+import com.cherith.tsf_banking.db.DbEntity;
 
 public class InsertActivity extends AppCompatActivity {
 

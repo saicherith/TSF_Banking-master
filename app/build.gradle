@@ -5,7 +5,7 @@ android {
     buildToolsVersion "30.0.0"
 
     defaultConfig {
-        applicationId "com.srivardhan.tsf_banking"
+        applicationId "com.cherith.tsf_banking"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1

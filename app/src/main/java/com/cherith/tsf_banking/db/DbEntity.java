@@ -1,4 +1,4 @@
-package com.srivardhan.tsf_banking.db;
+package com.cherith.tsf_banking.db;
 
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;
